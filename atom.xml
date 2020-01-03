@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2020-01-03T02:30:05.121Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://sinianshou.github.io/"/>
+  <updated>2020-01-03T02:19:24.811Z</updated>
+  <id>https://sinianshou.github.io/</id>
   
   <author>
     <name>Easer</name>
@@ -17,31 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>article title</title>
-    <link href="http://yoursite.com/2020/01/03/article-title/"/>
-    <id>http://yoursite.com/2020/01/03/article-title/</id>
-    <published>2020-01-03T02:28:48.000Z</published>
-    <updated>2020-01-03T02:30:05.121Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="【swift】Array、Dictionary、Set"><a href="#【swift】Array、Dictionary、Set" class="headerlink" title="【swift】Array、Dictionary、Set"></a>【swift】Array、Dictionary、Set</h1><p>[toc]</p><div STYLE="page-break-after:always;"></div><h2 id="Array"><a href="#Array" class="headerlink" title="Array"></a>Array</h2><h2 id="Dictionary"><a href="#Dictionary" class="headerlink" title="Dictionary"></a>Dictionary</h2><h3 id="初始化"><a href="#初始化" class="headerlink" title="初始化"></a>初始化</h3><figure class="highlight swift"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> dict = [<span class="string">"key"</span>:<span class="string">"value"</span>, <span class="string">"num"</span>:<span class="number">20</span>, <span class="string">"arr"</span>:[<span class="number">1</span>, <span class="number">2</span>, <span class="number">3</span>]]</span><br><span class="line"></span><br><span class="line"><span class="comment">// 初始化空的字典</span></span><br><span class="line"><span class="keyword">var</span> dict1:<span class="type">Dictionary</span>&lt;<span class="type">String</span>, <span class="type">String</span>&gt; = [:]</span><br><span class="line"><span class="keyword">var</span> dict2:[<span class="type">String</span>:<span class="type">String</span>] = [:]</span><br><span class="line"><span class="keyword">var</span> dict3 = [<span class="type">String</span>:<span class="type">Any</span>]()</span><br><span class="line"><span class="keyword">var</span> dict4 = <span class="type">Dictionary</span>&lt;<span class="type">String</span>, <span class="type">String</span>&gt;()</span><br></pre></td></tr></table></figure><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">graph TD</span><br><span class="line">A --&gt; B</span><br><span class="line">B --&gt; C</span><br></pre></td></tr></table></figure><h2 id="Set"><a href="#Set" class="headerlink" title="Set"></a>Set</h2><p>@import “test.md”</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;【swift】Array、Dictionary、Set&quot;&gt;&lt;a href=&quot;#【swift】Array、Dictionary、Set&quot; class=&quot;headerlink&quot; title=&quot;【swift】Array、Dictionary、Set&quot;&gt;&lt;/a&gt;【swif
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/03/hello-world/"/>
-    <id>http://yoursite.com/2020/01/03/hello-world/</id>
+    <link href="https://sinianshou.github.io/2020/01/03/hello-world/"/>
+    <id>https://sinianshou.github.io/2020/01/03/hello-world/</id>
     <published>2020-01-03T02:19:24.811Z</published>
     <updated>2020-01-03T02:19:24.811Z</updated>
     
